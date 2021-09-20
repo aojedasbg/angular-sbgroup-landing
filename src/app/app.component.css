@@ -1,0 +1,12 @@
+::ng-deep .triggerBtn:hover {
+    cursor: pointer;
+}
+::ng-deep .main-menu__sub-list li a {
+    color: white !important;
+}
+::ng-deep agm-map{
+    height: 500px;
+} 
+::ng-deep .page-header--fixed .page-header__top {
+    display: none !important;
+}
